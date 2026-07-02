@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stuti Gupta</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/afa28635-574b-4681-a34e-fd620c3a0451" width="384">
+  <img src="https://github.com/user-attachments/assets/40d81259-6a59-4199-ad80-e52b12e08079" width="384">
 </p>
 
 
